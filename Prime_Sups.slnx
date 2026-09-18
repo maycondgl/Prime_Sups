@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AcessoBancoDados/AcessoBancoDados.csproj" />
+  <Project Path="Apresentacao/Apresentacao.csproj" />
+  <Project Path="Negocios/Negocios.csproj" />
+  <Project Path="ObjetoTransferencia/ObjetoTransferencia.csproj" />
+</Solution>
